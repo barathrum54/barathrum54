@@ -1,9 +1,17 @@
 <div align="center">
 <img src="./assets/hero.gif" height="300" width="600" alt="tbdr header gif" style="border-radius:10px">
 </div>
+
+###
+
 <div align="left">
-  <h3>Feel free to further explore what i do</h3> &nbsp; <a href="https://tbdr.xyz">tbdr.xyz</a>
+  <h2>Feel free to further explore what i do</h2> 
+  <br>
+  <a href="https://tbdr.xyz">tbdr.xyz</a>
 </div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
