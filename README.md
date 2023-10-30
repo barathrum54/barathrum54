@@ -43,4 +43,10 @@
   </a>
 </div>
 
+<style>
+
+  a{
+    display:none !important;
+  }
+</style>
 <br clear="both">
