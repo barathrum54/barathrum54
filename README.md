@@ -1,8 +1,8 @@
 <div align="center">
-<img src="./assets/hero.gif" height="300" width="600" alt="tbdr header gif">
+<img src="./assets/hero.gif" height="300" width="600" alt="tbdr header gif" style="border-radius:10px">
 </div>
 <div align="left">
-  Feel free to <a href="https://tbdr.xyz">explore me</a> further
+  <h3>Feel free to further explore what i do</h3> &nbsp; <a href="https://tbdr.xyz">tbdr.xyz</a>
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
