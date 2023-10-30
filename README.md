@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/hero.gif" height="300" width="600" alt="tbdr header gif" style="border-radius:10px">
+<img src="./assets/hero.gif" alt="tbdr header gif" style="border-radius:10px;object-fit:contain;width:100%">
 </div>
 
 ###
