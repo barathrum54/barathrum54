@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <code>Feel free to further explore what I do at <a href="https://tbdr.xyz" style="text-decoration: none; color: inherit;">TBDR.xyz</a></code>
 </div>
 
