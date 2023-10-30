@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barathrum54&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="./assets/hero.gif" height="30" width="600" alt="tbdr header gif">
 </div>
-
-<div align="center">
-<img src="./assets/hero.gif" height="30" width="60" alt="tbdr header gif">
-</div>
-<div align="center">
-  <h3>Feel free to <a href="https://tbdr.xyz">explore me</a> further</h3>
+<div align="left">
+  Feel free to <a href="https://tbdr.xyz">explore me</a> further
 </div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
