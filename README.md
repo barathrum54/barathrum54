@@ -5,9 +5,10 @@
 ###
 
 <div align="left">
-  <h5>Feel free to further explore what i do</h5> 
-  <br>
+  <code>
+  Feel free to further explore what i do
   <a href="https://tbdr.xyz">tbdr.xyz</a>
+  </code>
 </div>
 
 ###
