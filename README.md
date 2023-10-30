@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <code>>Feel free to further explore what i do<br>><a href="https://tbdr.xyz">TBDR.xyz</a></code>
+  <code>>Feel free to further explore what i do<br/>><a href="https://tbdr.xyz">TBDR.xyz</a></code>
 </div>
 
 ###
