@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <code>Feel free to further explore what I do at <a href="https://tbdr.xyz" style="text-decoration: none; color: inherit;">TBDR.xyz</a></code>
+  <code>Feel free to further explore what I do at <a href="https://tbdr.dev" style="text-decoration: none; color: inherit;">TBDR.dev</a></code>
 </div>
 
 <br>
